@@ -1,0 +1,97 @@
+1. Write a javascript progaram which is return an array  that conatin only unique element
+
+2. /* what is the out put of the following code */
+(function () {
+  a = b = 36;
+});
+console.log("a " + typeof a);
+console.log("b " + typeof b);
+
+4. how to find duplicate element in a given array 
+
+5. How to find an a largest and smallest element in an array 
+
+6. find the vowels the string
+
+7. write a javascript program that arrange array in a assending and dessinding order
+
+8. what is the difference between "==" and "===" operator
+
+9.  In a array find a  second largest element an  remove the largest element by index
+
+10. find the missing element in the given array
+
+11. find the even and odd number in the given array 
+
+12. write a program to find the factiorial of the   given number.
+
+13. write a  program to find the sum of the  array 
+
+14. wirte a program that accept a number and it need to return weather it is prime or not
+
+15. count the number of vowels in the string !
+
+16. what is a difference between deepCopy and shallow copy method?
+
+17 . write a program to check string is a  palendrome or not ?
+
+18. Write a javascript program that count the number of repated elememnt in a string  and return the maximum repeated value and its count
+
+19.write a program to reverse an a integer 
+
+20.  write a program to print if the number  is divisable by 3 print "fizz"  if the number  is divisable by 5 print "buzz"
+ if the number  is divisable by 3 & 5 print "fizz buzz"
+
+21. write a program to merge two array and sort  them 
+
+22. write a program to find the factor  of the given number
+
+23. write  a program to   find the two arrays are same  are  not
+
+24. how to find the  intersection of the two array in javascript
+
+25.  find the union of the two arrays
+
+26. write a program  to convert first letter of the string to upper Case
+
+27. find the fibanacci  number 
+
+28.  write a program to print a * in right triangle , diamond  pyramid shape
+
+29. Program to Check Armstrong Number in JavaScript
+
+30  write a javascript program to find the largest  and  smallest  in 3 number
+
+31.  find a duplicate in a word if the letter is repeated then output will be false or true 
+
+32. This kata requires you to write a function which merges two strings together. It does so by merging the end of the first string with the start of the second string together when they are an exact match.
+
+33.  Find the difference between the square of the sum of the first n natural numbers (1 <= n <= 100) and the sum of their squares.
+
+34.    The function should take three arguments - operation(string/char), value1(number), value2(number).
+The function should return result of numbers after applying the chosen operation.
+
+35 . Count the number of divisors of a positive integer n.
+
+36. convert number to string 
+
+38.  how to compare the two object in javascrpt
+
+39. find the single element in the array
+
+40 . how to empty the array in javascript
+
+41. what is the output for the following code
+console.log(2 == 2);
+console.log(2 == 2 == 2);
+console.log(2 == 2 == 2 == 0);
+
+42. when we are going to use Number()  and ParseInt() method in js
+
+43.  default parameter in js
+
+44. write a program to find the single reapeated value in a array
+
+53.  swaping the letter in the given string to it's opposite case;
+
+54.  return all the unique letter in the given strings
