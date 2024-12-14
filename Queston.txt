@@ -95,3 +95,5 @@ console.log(2 == 2 == 2 == 0);
 53.  swaping the letter in the given string to it's opposite case;
 
 54.  return all the unique letter in the given strings
+
+56. // find the unique element  in the array without using any inbuild methods
